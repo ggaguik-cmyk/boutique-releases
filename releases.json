@@ -1,0 +1,10 @@
+{
+  "latest": "v10",
+  "releases": [
+    {
+      "version": "v10",
+      "date": "2026-07-05",
+      "notes": "Correctifs de sécurité majeurs (authentification, uploads, CORS) et page d accueil par défaut."
+    }
+  ]
+}
