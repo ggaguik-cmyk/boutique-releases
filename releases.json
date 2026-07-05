@@ -1,11 +1,6 @@
 {
-  "latest": "v13",
+  "latest": "v12",
   "releases": [
-    {
-      "version": "v13",
-      "date": "2026-07-05",
-      "notes": "TEST rollback - version volontairement cassée, ne pas garder."
-    },
     {
       "version": "v12",
       "date": "2026-07-05",
