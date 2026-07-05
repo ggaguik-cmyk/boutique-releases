@@ -1,6 +1,11 @@
 {
-  "latest": "v10",
+  "latest": "v12",
   "releases": [
+    {
+      "version": "v12",
+      "date": "2026-07-05",
+      "notes": "Version de validation du système de mise à jour en un clic."
+    },
     {
       "version": "v10",
       "date": "2026-07-05",
