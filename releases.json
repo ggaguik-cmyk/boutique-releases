@@ -1,6 +1,11 @@
 {
-  "latest": "v12",
+  "latest": "v13",
   "releases": [
+    {
+      "version": "v13",
+      "date": "2026-07-05",
+      "notes": "Indicateur permanent de version à jour dans le tableau de bord"
+    },
     {
       "version": "v12",
       "date": "2026-07-05",
