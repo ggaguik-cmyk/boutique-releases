@@ -1,6 +1,11 @@
 {
-  "latest": "v13",
+  "latest": "v14",
   "releases": [
+    {
+      "version": "v14",
+      "date": "2026-07-06",
+      "notes": "Plans d abonnement : les modules disponibles s adaptent au pack choisi. Aucun changement pour les boutiques existantes."
+    },
     {
       "version": "v13",
       "date": "2026-07-05",
