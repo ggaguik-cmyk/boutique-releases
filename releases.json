@@ -1,6 +1,11 @@
 {
-  "latest": "v14",
+  "latest": "v15",
   "releases": [
+    {
+      "version": "v15",
+      "date": "2026-07-06",
+      "notes": "Ecrans de deblocage des modules et verrouillage complet par abonnement. Automatisation marketing incluse des le plan Pro."
+    },
     {
       "version": "v14",
       "date": "2026-07-06",
