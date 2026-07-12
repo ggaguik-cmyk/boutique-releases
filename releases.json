@@ -1,6 +1,11 @@
 {
-  "latest": "v15",
+  "latest": "v56",
   "releases": [
+    {
+      "version": "v56",
+      "date": "2026-07-12",
+      "notes": "DROPSHIPPING MODULE + FICHE IA + BUILDER IA"
+    },
     {
       "version": "v15",
       "date": "2026-07-06",
