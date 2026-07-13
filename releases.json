@@ -1,6 +1,11 @@
 {
-  "latest": "v56",
+  "latest": "v57",
   "releases": [
+    {
+      "version": "v57",
+      "date": "2026-07-13",
+      "notes": "Emails automatiques au nom de votre boutique, améliorations du service inclus dans l'abonnement"
+    },
     {
       "version": "v56",
       "date": "2026-07-12",
