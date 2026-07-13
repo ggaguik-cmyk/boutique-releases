@@ -1,6 +1,11 @@
 {
-  "latest": "v57",
+  "latest": "v58",
   "releases": [
+    {
+      "version": "v58",
+      "date": "2026-07-13",
+      "notes": "Import AliExpress instantané inclus dans votre abonnement, mises à jour visibles immédiatement, améliorations diverses"
+    },
     {
       "version": "v57",
       "date": "2026-07-13",
