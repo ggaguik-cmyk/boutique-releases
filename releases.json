@@ -1,6 +1,11 @@
 {
-  "latest": "v58",
+  "latest": "v59",
   "releases": [
+    {
+      "version": "v59",
+      "date": "2026-07-14",
+      "notes": "Saas modif"
+    },
     {
       "version": "v58",
       "date": "2026-07-13",
