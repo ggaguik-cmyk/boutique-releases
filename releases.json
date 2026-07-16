@@ -1,6 +1,11 @@
 {
-  "latest": "v59",
+  "latest": "v63",
   "releases": [
+    {
+      "version": "v63",
+      "date": "2026-07-16",
+      "notes": "Des corrections majeure"
+    },
     {
       "version": "v59",
       "date": "2026-07-14",
