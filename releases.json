@@ -1,6 +1,11 @@
 {
-  "latest": "v72",
+  "latest": "v74",
   "releases": [
+    {
+      "version": "v74",
+      "date": "2026-07-23",
+      "notes": "v74"
+    },
     {
       "version": "v72",
       "date": "2026-07-20",
