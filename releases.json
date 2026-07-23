@@ -1,6 +1,11 @@
 {
-  "latest": "v75",
+  "latest": "v76",
   "releases": [
+    {
+      "version": "v76",
+      "date": "2026-07-23",
+      "notes": "Correction d’affichage : le logo ajouté dans la personnalisation garde maintenant sa taille configurée sur tout le site (mobile, tablette, ordinateur). Corrige aussi de petits styles du mini-panier et des widgets."
+    },
     {
       "version": "v75",
       "date": "2026-07-23",
