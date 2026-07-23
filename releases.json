@@ -1,6 +1,11 @@
 {
-  "latest": "v74",
+  "latest": "v75",
   "releases": [
+    {
+      "version": "v75",
+      "date": "2026-07-23",
+      "notes": "Crédits IA : jauge de solde en direct dans le builder et les réglages, alerte e-mail avant d’être à court, recharge en 1 clic. Génération IA : votre boutique se construit autour de votre activité dès la première connexion. Pages servies instantanément aux moteurs de recherche (SEO), plus rapides et plus fiables. Corrections et améliorations diverses."
+    },
     {
       "version": "v74",
       "date": "2026-07-23",
