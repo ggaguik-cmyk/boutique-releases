@@ -1,6 +1,11 @@
 {
-  "latest": "v103",
+  "latest": "v104",
   "releases": [
+    {
+      "version": "v104",
+      "date": "2026-08-31",
+      "notes": "pages analytics, tableau de bord, bouton Installer l'app, correctif accueil"
+    },
     {
       "version": "v103",
       "date": "2026-08-27",
