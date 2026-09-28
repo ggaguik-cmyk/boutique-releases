@@ -1,6 +1,11 @@
 {
-  "latest": "v123",
+  "latest": "v124",
   "releases": [
+    {
+      "version": "v124",
+      "date": "2026-09-28",
+      "notes": "v124"
+    },
     {
       "version": "v123",
       "date": "2026-09-26",
